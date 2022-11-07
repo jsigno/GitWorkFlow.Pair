@@ -1,9 +1,9 @@
 body {
-    /* your styles here */
+    font-style: italic;
   }
   
   h1, #designed-by {
-    /* your styles here */
+    background-color: antiquewhite;
   }
   
   .style1 {
